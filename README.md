@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Coding Project:</h2>
 
-  - [Bussiness data analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bussiness data analysis](https://github.com/callumpatterson-oss/Business-Analysis-Project)
 
 <h2>👨‍💻 Certifications:</h2>
 
